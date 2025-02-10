@@ -40,22 +40,25 @@ The project uses the **RAVDESS** subset from the [speech-emotion-recognition-en 
 ## Installation
 Clone the repository and install the required dependencies:
 
-```bash
+```
 git clone https://github.com/yourusername/speech-emotion-recognition.git
 cd speech-emotion-recognition
 pip install -r requirements.txt
 Dependencies include TensorFlow, librosa, numpy, scikit-learn, matplotlib, seaborn, and IPython.
+```
 
-## Usage
+Dependencies include TensorFlow, librosa, numpy, scikit-learn, matplotlib, seaborn, and IPython.
+
+Usage
 Run the training script to preprocess the data, train the model, and evaluate its performance:
 
-```bash
+bash
 Copy
 Edit
 python train.py
 The script performs:
 
-## Data augmentation and MFCC extraction from audio files.
+Data augmentation and MFCC extraction from audio files.
 Training with mixup augmentation, early stopping, and learning rate reduction.
 Evaluation on a held-out test set.
 Visualization of training history and confusion matrix.
@@ -78,5 +81,3 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 Thanks to Kaggle for the speech-emotion-recognition-en dataset.
 Inspiration and research from the deep learning community on CNN-LSTM and attention models.
-Copy
-Edit
