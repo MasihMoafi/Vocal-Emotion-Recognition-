@@ -79,5 +79,5 @@ This project is a strong portfolio piece demonstrating the application of deep l
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-Thanks to Kaggle for the [speech-emotion-recognition-en dataset]([https://www.kaggle.com/datasets/uwrfkaggler/speech-emotion-recognition-en](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) dataset.
+Thanks to Kaggle for the [speech-emotion-recognition-en dataset](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) dataset.
 Inspiration and research from the deep learning community on CNN-LSTM and attention models.
