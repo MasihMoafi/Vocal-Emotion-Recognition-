@@ -38,7 +38,7 @@ The project uses the **RAVDESS** subset from the [speech-emotion-recognition-en 
 - **Dense Output Layer:** Classifies the input into one of the eight emotion categories using softmax activation.
 
 ## Installation
-Clone the repository and install the required dependencies.
+Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/yourusername/speech-emotion-recognition.git
