@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-This repository contains a deep learning project for speech emotion recognition using the [speech-emotion-recognition-en dataset]([https://www.kaggle.com/datasets/uwrfkaggler/speech-emotion-recognition-en](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) from Kaggle. The project combines Convolutional Neural Networks (CNN), Bidirectional LSTM, and an Attention mechanism to achieve state-of-the-art performance, with a validation accuracy around 94%.
+This repository contains a deep learning project for speech emotion recognition using the [speech-emotion-recognition-en dataset](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) from Kaggle. The project combines Convolutional Neural Networks (CNN), Bidirectional LSTM, and an Attention mechanism to achieve state-of-the-art performance, with a validation accuracy around 94%.
 
 ## Table of Contents
 - [Overview](#overview)
